@@ -4,7 +4,21 @@
   <img src="https://github.com/pyratatui.png" alt="pyratatui logo" width="200" />
 </div>
 
-**Python bindings for [ratatui](https://github.com/tui-rs/ratatui) — the high-performance Rust TUI engine, enabling expressive, responsive, and modern terminal applications.** ⚡🐍🎨
+**Python bindings for [ratatui](https://github.com/tui-rs/ratatui) — the high-performance Rust TUI engine, enabling expressive, responsive, and modern terminal applications.** ⚡🐍
+
+[![GitHub](https://img.shields.io/badge/GitHub-pyratatui%2Fpyratatui-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pyratatui/pyratatui)
+&nbsp;
+[![PyPI](https://img.shields.io/pypi/v/pyratatui?style=flat-square&logo=pypi&color=3775A9)](https://pypi.org/project/pyratatui/)
+&nbsp;
+[![Downloads](https://img.shields.io/pypi/dm/pyratatui?style=flat-square&color=2ecc71&label=Downloads%2FMonth)](https://pypi.org/project/pyratatui/)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+&nbsp;
+[![License](https://img.shields.io/github/license/pyratatui/pyratatui?style=flat-square)](https://github.com/pyratatui/pyratatui/blob/main/LICENSE)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/pyratatui/pyratatui?style=flat-square&color=f1c40f)](https://github.com/pyratatui/pyratatui/stargazers)
 
 ---
 
