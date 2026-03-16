@@ -6,6 +6,8 @@
 
 **Python bindings for [ratatui](https://github.com/tui-rs/ratatui) — the high-performance Rust TUI engine, enabling expressive, responsive, and modern terminal applications.** ⚡🐍
 
+[![IdeaCred](https://ideacred.com/api/badge/pyratatui?style=for-the-badge)](https://ideacred.com/profile/pyratatui)
+
 [![GitHub](https://img.shields.io/badge/GitHub-pyratatui%2Fpyratatui-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pyratatui/pyratatui)
 &nbsp;
 [![PyPI](https://img.shields.io/pypi/v/pyratatui?style=flat-square&logo=pypi&color=3775A9)](https://pypi.org/project/pyratatui/)
